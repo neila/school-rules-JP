@@ -11,3 +11,10 @@
 （わかる人は）`book_src/`下に追加したい学校の所在する都道府県のフォルダの中に、**一校あたり一ページ**を作成し、PRを出してください。**Markdown記法**で記載してください。
 
 上の説明で何を言っているかわからない人は、[こちら](https://docs.github.com/ja/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository)から、Github（このデータベースが置いてあるサービス）上でファイルを編集する方法を見てみてください。
+
+
+## Contributors
+
+<a href="https://github.com/neila/school-rules-JP/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=neila/school-rules-JP" />
+</a>
