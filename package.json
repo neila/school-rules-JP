@@ -1,0 +1,30 @@
+{
+  "name": "japanese-school-rules-database",
+  "version": "1.0.0",
+  "description": "全国の校則をOpenDataとして公開、管理するプロジェクトです。",
+  "keywords": [
+    "中学",
+    "中学校",
+    "高校",
+    "校則"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neila/school-rules-JP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neila/school-rules-JP/issues"
+  },
+  "homepage": "https://github.com/neila/school-rules-JP#readme",
+  "author": "SHØ <neila@users.noreply.github.com>",
+  "scripts": {
+    "serve": "npx honkit serve ./book_src ./pages",
+    "build": "npx honkit build ./book_src ./pages",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "honkit": "^3.7.1"
+  }
+}
